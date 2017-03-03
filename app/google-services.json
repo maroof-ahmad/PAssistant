@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130999037254",
+    "firebase_url": "https://passistant-e10b3.firebaseio.com",
+    "project_id": "passistant-e10b3",
+    "storage_bucket": "passistant-e10b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130999037254:android:8c3022c6ba39a3a5",
+        "android_client_info": {
+          "package_name": "com.passistant.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130999037254-0adn41j5etoult0jjlrtktp7aeer0kvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbHgBn4HFbLR6yGuJPcohcq74W1Hr4w0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

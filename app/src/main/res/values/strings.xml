@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passistant</string>
+    <string name="facebook_app_id">1408426465855028</string>
+    <string name="title_activity_fb_login">FbLoginActivity</string>
+</resources>
